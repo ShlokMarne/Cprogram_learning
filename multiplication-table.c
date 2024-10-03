@@ -13,7 +13,7 @@ void print_table(int range, int num)
 int main()
 {
     int num,range;
-    printf("Enter table: ",num);
+    printf("Enter table no.: ",num);
     scanf("%d",&num);
     printf("Enter range: ",range);
     scanf("%d",&range);
